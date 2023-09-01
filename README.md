@@ -1,24 +1,14 @@
-Contribution: 2014-01-06 20:00
+# Default template
+Template for angular application with a lazy-loadable structure.
 
-Contribution: 2014-01-06 20:01
+`share` – a folder for shared pieces of code:
+* interfaces
+* components
+* pipes
+* directives
+* helpers (utils)
+* anything else
 
-Contribution: 2014-01-06 20:02
+`core` – a folder for core things such as services
 
-Contribution: 2014-01-06 20:03
-
-Contribution: 2014-01-06 20:04
-
-Contribution: 2014-01-08 20:00
-
-Contribution: 2014-01-08 20:01
-
-Contribution: 2014-01-08 20:02
-
-Contribution: 2014-01-11 20:00
-
-Contribution: 2014-01-11 20:01
-
-Contribution: 2014-01-13 20:00
-
-Contribution: 2014-01-14 20:00
-
+`home` – a module for home page that you can change anyway you`d like. You may use it as a boilerplate for other modules.
